@@ -1,1 +1,1 @@
-# cse29 6-8 lab1
+# cse29 lab1
